@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/test.jpg</file>
+    <file>images/acidic.jpg</file>
+    <file>images/basic.jpg</file>
+    <file>images/cold.jpg</file>
+    <file>images/hot.png</file>
+    <file>images/dry_plant.jpg</file>
+    <file>images/DrowningPlant.png</file>
+    <file>images/night_time.jpg</file>
+    <file>database</file>
+</qresource>
+</RCC>
+
